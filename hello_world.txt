@@ -25,3 +25,6 @@ e após isso tudo pode subir o documento utilizando o comando
 faça o teste. 
 
 Teste
+
+
+Teste de commit 1.
