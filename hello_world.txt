@@ -1,2 +1,25 @@
 Olá, Odin, obrigado!
 Teste
+
+Fluxo de trablaho no GIT
+
+Após criar o documento editavel para 'codar'. 
+
+Pode prepara-lo para envio. Após fazer qualquer alteração no documento
+Pode verificar que com o comando 
+
+*git status vera que teve uma alteração.
+
+Após as alterações pode preparar o documento para envio ao repositorio github
+
+com o comando git add . ou git add nome.ex
+
+pode também deixar um comentario de utilizando o comando
+
+*git commit -m "comentario" 
+
+e após isso tudo pode subir o documento utilizando o comando 
+
+*git push. 
+
+faça o teste. 
